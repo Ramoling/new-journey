@@ -1,4 +1,6 @@
 ---
 title: Welcome to my blog
 ---
-Hello My Blog!
+---
+Content: Hello My Blog!
+---
